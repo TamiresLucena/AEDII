@@ -1,0 +1,4 @@
+TamiresLucena_Trabalho1 Pecuaria.csv
+
+python GraficosPython.py "Local e Quantidade Total.txt" "Local e Valor Total.txt" "Tipo do Peixe e Quantidade Total.txt" "Tipo do Peixe e Valor Total.txt" "Ano e Quantidade Total.txt" "Ano e Valor Total.txt"
+
